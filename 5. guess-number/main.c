@@ -18,7 +18,7 @@ int main() {
     time_t t;
     srand((unsigned) time(&t));
 
-    int total_tries=5;
+    int total_tries=4;
     int count=1;
     while (1) {
         printf("Please Enter your guess (0-10): ");
